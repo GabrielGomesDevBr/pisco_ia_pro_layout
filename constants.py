@@ -16,8 +16,18 @@ USERS_DB = {
     'pamelade': {'password': 'vhBCyJkO', 'name': 'Pâmela'},
     'biancakatherine': {'password': 'ch7p9sf8', 'name': 'Bianca'},
     'adrianarivani': {'password': 'XtPF8P4N', 'name': 'Adriana'},
-    'lucilenegregorio': {'password': 'Luc123Gr', 'name': 'Lucilene'}
+    'lucilenegregorio': {'password': 'Luc123Gr', 'name': 'Lucilene'},
     'thaispsicomamor': {'password': 'Ths789Ps', 'name': 'Thais'},
+    'tester01': {'password': 'Tst1@Psy', 'name': 'Tester 01'},
+    'tester02': {'password': 'Psy2#Tst', 'name': 'Tester 02'},
+    'tester03': {'password': 'T3st@Psy', 'name': 'Tester 03'},
+    'tester04': {'password': 'Psy4#Tst', 'name': 'Tester 04'},
+    'tester05': {'password': 'T5st@Psy', 'name': 'Tester 05'},
+    'tester06': {'password': 'Psy6#Tst', 'name': 'Tester 06'},
+    'tester07': {'password': 'T7st@Psy', 'name': 'Tester 07'},
+    'tester08': {'password': 'Psy8#Tst', 'name': 'Tester 08'},
+    'tester09': {'password': 'T9st@Psy', 'name': 'Tester 09'},
+    'tester10': {'password': 'Psy10#Ts', 'name': 'Tester 10'}
 }
 
 # Tipos de relatórios disponíveis
