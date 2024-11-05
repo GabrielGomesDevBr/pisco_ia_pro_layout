@@ -17,6 +17,7 @@ USERS_DB = {
     'biancakatherine': {'password': 'ch7p9sf8', 'name': 'Bianca'},
     'adrianarivani': {'password': 'XtPF8P4N', 'name': 'Adriana'},
     'lucilenegregorio': {'password': 'Luc123Gr', 'name': 'Lucilene'}
+    'thaispsicomamor': {'password': 'Ths789Ps', 'name': 'Thais'}
 }
 
 # Tipos de relatórios disponíveis
