@@ -4,7 +4,6 @@ Arquivo de constantes e configurações do sistema
 Contém todas as definições estáticas usadas na aplicação
 """
 
-# Banco de dados de usuários (simulado)
 USERS_DB = {
     'gabriel@aperdata.com': {'password': 'gabriel123', 'name': 'Gabriel'},
     'tester01': {'password': 'Tst1@Psy', 'name': 'Tester 01'},
@@ -16,7 +15,47 @@ USERS_DB = {
     'tester07': {'password': 'T7st@Psy', 'name': 'Tester 07'},
     'tester08': {'password': 'Psy8#Tst', 'name': 'Tester 08'},
     'tester09': {'password': 'T9st@Psy', 'name': 'Tester 09'},
-    'tester10': {'password': 'Psy10#Ts', 'name': 'Tester 10'}
+    'tester10': {'password': 'Psy10#Ts', 'name': 'Tester 10'},
+    'tester11': {'password': 'T11st@Psy', 'name': 'Tester 11'},
+    'tester12': {'password': 'Psy12#Tst', 'name': 'Tester 12'},
+    'tester13': {'password': 'T13st@Psy', 'name': 'Tester 13'},
+    'tester14': {'password': 'Psy14#Tst', 'name': 'Tester 14'},
+    'tester15': {'password': 'T15st@Psy', 'name': 'Tester 15'},
+    'tester16': {'password': 'Psy16#Tst', 'name': 'Tester 16'},
+    'tester17': {'password': 'T17st@Psy', 'name': 'Tester 17'},
+    'tester18': {'password': 'Psy18#Tst', 'name': 'Tester 18'},
+    'tester19': {'password': 'T19st@Psy', 'name': 'Tester 19'},
+    'tester20': {'password': 'Psy20#Tst', 'name': 'Tester 20'},
+    'tester21': {'password': 'T21st@Psy', 'name': 'Tester 21'},
+    'tester22': {'password': 'Psy22#Tst', 'name': 'Tester 22'},
+    'tester23': {'password': 'T23st@Psy', 'name': 'Tester 23'},
+    'tester24': {'password': 'Psy24#Tst', 'name': 'Tester 24'},
+    'tester25': {'password': 'T25st@Psy', 'name': 'Tester 25'},
+    'tester26': {'password': 'Psy26#Tst', 'name': 'Tester 26'},
+    'tester27': {'password': 'T27st@Psy', 'name': 'Tester 27'},
+    'tester28': {'password': 'Psy28#Tst', 'name': 'Tester 28'},
+    'tester29': {'password': 'T29st@Psy', 'name': 'Tester 29'},
+    'tester30': {'password': 'Psy30#Tst', 'name': 'Tester 30'},
+    'tester31': {'password': 'T31st@Psy', 'name': 'Tester 31'},
+    'tester32': {'password': 'Psy32#Tst', 'name': 'Tester 32'},
+    'tester33': {'password': 'T33st@Psy', 'name': 'Tester 33'},
+    'tester34': {'password': 'Psy34#Tst', 'name': 'Tester 34'},
+    'tester35': {'password': 'T35st@Psy', 'name': 'Tester 35'},
+    'tester36': {'password': 'Psy36#Tst', 'name': 'Tester 36'},
+    'tester37': {'password': 'T37st@Psy', 'name': 'Tester 37'},
+    'tester38': {'password': 'Psy38#Tst', 'name': 'Tester 38'},
+    'tester39': {'password': 'T39st@Psy', 'name': 'Tester 39'},
+    'tester40': {'password': 'Psy40#Tst', 'name': 'Tester 40'},
+    'tester41': {'password': 'T41st@Psy', 'name': 'Tester 41'},
+    'tester42': {'password': 'Psy42#Tst', 'name': 'Tester 42'},
+    'tester43': {'password': 'T43st@Psy', 'name': 'Tester 43'},
+    'tester44': {'password': 'Psy44#Tst', 'name': 'Tester 44'},
+    'tester45': {'password': 'T45st@Psy', 'name': 'Tester 45'},
+    'tester46': {'password': 'Psy46#Tst', 'name': 'Tester 46'},
+    'tester47': {'password': 'T47st@Psy', 'name': 'Tester 47'},
+    'tester48': {'password': 'Psy48#Tst', 'name': 'Tester 48'},
+    'tester49': {'password': 'T49st@Psy', 'name': 'Tester 49'},
+    'tester50': {'password': 'Psy50#Tst', 'name': 'Tester 50'}
 }
 
 # Tipos de relatórios disponíveis
