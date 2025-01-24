@@ -67,7 +67,7 @@ def generate_report(patient_data, report_type, tone, specific_fields):
         os.environ['OPENAI_API_KEY'] = api_key
         
         model = ChatOpenAI(
-            model_name='gpt-4-turbo',
+            model_name='gpt-3.5-turbo',
             temperature=0.7
         )
         
